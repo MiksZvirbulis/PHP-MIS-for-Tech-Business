@@ -27,3 +27,6 @@ While working for a company that builds custom built PC's, I was given permissio
 
 ## Screenshot
 * http://prntscr.com/mpg5nm - main, repairs list page
+
+## Demo
+http://mis.mikscode.com (username: demo, password: demo)
