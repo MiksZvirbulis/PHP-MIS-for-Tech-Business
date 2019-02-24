@@ -1011,8 +1011,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `password`, `salt`, `level`, `email`, `name`, `surname`, `skype`, `last_action_time`, `phone_number`, `created_by_id`, `mark_attendance`, `active`) VALUES
-(1, 'demo', '600ebda797031dca7341b5da88ac302e', 'yJAVU$Y9U2', 1, 'mikszvirbulis@yahoo.com', 'Demo', 'Account', 'noskype', '1548706333', '07111111111', 1, 0, 1)
--- --------------------------------------------------------
+(1, 'demo', '600ebda797031dca7341b5da88ac302e', 'yJAVU$Y9U2', 1, 'mikszvirbulis@yahoo.com', 'Demo', 'Account', 'noskype', '1548706333', '07111111111', 1, 0, 1);
 
 --
 -- Table structure for table `wages`
